@@ -1,0 +1,5 @@
+[agent mode]:
+/skill-creator create a skill that queries the db with the database url in the .env file, for all links created within the past 12 months. use a python script to plot this data to a bar chart where the x axis displays each month for the past 12 months, and the y axis displays the total number of links created for that month. this should be exported as a png image
+
+[agent mode]:
+generate the monthly links chart image
